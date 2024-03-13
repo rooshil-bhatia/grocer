@@ -1,0 +1,3 @@
+ADMIN_ID = 0;
+MANAGER_ID = 1;
+CUST_ID = 2 ;
